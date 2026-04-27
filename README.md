@@ -18,12 +18,6 @@
 - I build projects that solve real-world problems and I am always learning new technologies.
 - I'm currently focused on artificial intelligence, machine learning, and full-stack development.
 
-## Featured Project
-
-| Project | Focus | Stack |
-|---|---|---|
-| [eCarCodes/hackathon-2026-projects](https://github.com/eCarCodes/hackathon-2026-projects) | AI-Patient Triage | Frontend: Next.js 14, React 18, TypeScript, Tailwind CSS <br> API: FastAPI, Pydantic <br> Core Logic: Python 3.12+ (dataclasses, deterministic processing) <br> Database: Supabase (PostgreSQL) <br> Interoperability: FHIR R4 JSON Bundle |
-
 ## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -36,6 +30,12 @@
   <img src="https://img.shields.io/badge/VS%20Code%20IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code IDE" />
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken" />
 </p>
+
+## Featured Project
+
+| Project | Focus | Stack |
+|---|---|---|
+| [eCarCodes/hackathon-2026-projects](https://github.com/eCarCodes/hackathon-2026-projects) | AI-Patient Triage | Frontend: Next.js 14, React 18, TypeScript, Tailwind CSS <br> API: FastAPI, Pydantic <br> Core Logic: Python 3.12+ (dataclasses, deterministic processing) <br> Database: Supabase (PostgreSQL) <br> Interoperability: FHIR R4 JSON Bundle |
 
 ## GitHub Stats
 <p align="center">
