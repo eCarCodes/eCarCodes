@@ -14,9 +14,9 @@
 ---
 
 ## About Me
-I am an aspiring AI/ML Engineer. I build projects that solve real-world problems and I am always learning new technologies.
-
-I am currently focused on artificial intelligence, machine learning, and full-stack development.
+An aspiring AI/ML Engineer. 
+I build projects that solve real-world problems and I am always learning new technologies.
+I'm currently focused on artificial intelligence, machine learning, and full-stack development.
 
 ## Featured Project
 
