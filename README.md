@@ -19,13 +19,10 @@ I am an aspiring AI/ML Engineer. I build projects that solve real-world problems
 I am currently focused on artificial intelligence, machine learning, and full-stack development.
 
 ## Featured Project
-<p>
-  <a href="https://github.com/eCarCodes/hackathon-2026-projects">
-    <img src="https://img.shields.io/badge/Pinned%20Repo-Hackathon%20Project-blue?style=for-the-badge&logo=github" alt="Hackathon Project" />
-  </a>
-</p>
 
-**eCarCodes Hackathon Project** — rapid prototype built using Python, C++, SQL, and HTML.
+| Project | Focus | Stack |
+|---|---|---|
+| [eCarCodes/hackathon-2026-projects](https://github.com/eCarCodes/hackathon-2026-projects) | AI-Patient Triage | Frontend: Next.js 14, React 18, TypeScript, Tailwind CSS <br> API: FastAPI, Pydantic <br> Core Logic: Python 3.12+ (dataclasses, deterministic processing) <br> Database: Supabase (PostgreSQL) <br> Interoperability: FHIR R4 JSON Bundle |
 
 ## Tech Stack
 <p>
@@ -36,6 +33,8 @@ I am currently focused on artificial intelligence, machine learning, and full-st
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+  <img src="https://img.shields.io/badge/VS%20Code%20IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code IDE" />
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken" />
 </p>
 
 ## GitHub Stats
