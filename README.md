@@ -1,7 +1,7 @@
 ### Hey there! ✌️  
 My name is Eric Cariaga, an aspiring AI Software Engineer based in Texas.  
   
-I'm a very analytic thinker who loves solving complex problems.  
+I'm an exploratory thinker who loves solving complex problems.  
   
 I enjoy learning by doing. If I have a crazy idea for a project, I won't hesitate to jump right in!  
 
