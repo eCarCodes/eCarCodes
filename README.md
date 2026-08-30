@@ -1,5 +1,5 @@
 ### Hey there! ✌️  
-My name is Eric Cariaga, an aspiring AI Software Engineer based in Texas.  
+My name is Eric Cariaga, an aspiring AI/ML Engineer based in Texas.  
   
 I'm an exploratory thinker who loves solving complex problems.  
   
