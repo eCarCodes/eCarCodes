@@ -1,5 +1,6 @@
 ### Hey there! ✌️  
 My name is Eric Cariaga, an aspiring AI/ML Engineer based in Texas.  
+I`m currently interested in computer vision and how AI is able to sense the world using multimodals.
   
 I'm an exploratory thinker who loves solving complex problems.  
   
