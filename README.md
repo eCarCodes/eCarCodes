@@ -28,4 +28,4 @@ I enjoy learning by doing. If I have a crazy idea for a project, I won't hesitat
 - Taking part in hackathon events  
 - Expanding my knowledge on other languages and tools.
 - Keeping up with the latest news in tech and AI
-- Staying open-minded
+- Staying open-minded and curious
